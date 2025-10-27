@@ -17,7 +17,7 @@ namespace PointCloudDiffusion.Component.ExternalProcess
         public PyLocalComponent()
           : base("PythonInLocal", "PyLo",
               "Python in Local Environment",
-              "ARTs Lab", "Execution")
+              "BinaryNature", "Execution")
         {
         }
 

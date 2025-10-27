@@ -19,7 +19,7 @@ namespace SideCar
     public SideCarComponent()
       : base("SideCar Component", "Nickname",
         "Description of component",
-        "Category", "Subcategory")
+        "BinaryNature", "Subcategory")
     {
     }
 

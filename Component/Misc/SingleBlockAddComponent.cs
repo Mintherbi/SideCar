@@ -14,7 +14,7 @@ namespace PointCloudDiffusion.Component.Misc
         public SingleBlockAddComponent()
           : base("SingleBlockPointMove", "SBPM",
               "Untilizing Single Block for Point Movement Employing CUDA",
-              "ARTs Lab", "Misc.")
+              "BinaryNature", "Misc.")
         {
         }
         protected override void RegisterInputParams(GH_InputParamManager pManager)

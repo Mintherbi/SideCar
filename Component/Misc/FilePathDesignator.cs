@@ -31,7 +31,7 @@ namespace PointCloudDiffusion.Component.Misc
         public FilePathDesignator()
           : base("FilePathDesignator", "FP",
               "Designate File Path by double click!",
-              "ARTs Lab", "Misc.")
+              "BinaryNature", "Misc.")
         {
         }
 
