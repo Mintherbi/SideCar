@@ -14,3 +14,4 @@
 /Users/minsupchung/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Grasshopper Project/SideCar/obj/Debug/net7.0/SideCar.pdb
 /Users/minsupchung/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Grasshopper Project/SideCar/obj/Debug/net7.0/SideCar.genruntimeconfig.cache
 /Users/minsupchung/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Grasshopper Project/SideCar/obj/Debug/net7.0/ref/SideCar.gha
+/Users/minsupchung/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Grasshopper Project/SideCar/obj/Debug/net7.0/SideCar.sourcelink.json
